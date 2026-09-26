@@ -7,6 +7,8 @@ Starting with C, I'll gradually add projects, practice programs, and experiments
 I'm building this repository to stay consistent, improve my problem-solving skills, and track my progress over time.
 
 Thanks for stopping by! ❤️
+🚀 Projects
+Electrical Toolkit
 ## 🛠️ Currently Learning
 
 <p>
