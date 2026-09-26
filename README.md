@@ -21,10 +21,10 @@ Thanks for stopping by! ❤️
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohok-Chakravorty&show_icons=true&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=Mohok-Chakravorty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mohok-Chakravorty&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohok-Chakravorty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohok-Chakravorty&layout=compact&theme=dark)
