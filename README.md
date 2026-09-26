@@ -7,3 +7,10 @@ Starting with C, I'll gradually add projects, practice programs, and experiments
 I'm building this repository to stay consistent, improve my problem-solving skills, and track my progress over time.
 
 Thanks for stopping by! ❤️
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
