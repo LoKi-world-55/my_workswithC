@@ -26,5 +26,12 @@ Thanks for stopping by! ❤️
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Loki-World-55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## My Repos
+<a href="https://github.com/Loki-World-55/REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loki-World-55&repo=REPO-1" />
+</a>
 
+<a href="https://github.com/Loki-World-55/REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loki-World-55&repo=REPO-2" />
+</a>
 
