@@ -21,10 +21,10 @@ Thanks for stopping by! ❤️
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loki-World-55&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohok-Chakravorty&show_icons=true&theme=dark)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loki-World-55&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohok-Chakravorty&layout=compact&theme=dark)
