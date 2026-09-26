@@ -21,9 +21,9 @@ Thanks for stopping by! ❤️
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Mohok-Chakravorty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mohok-Chakravorty&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohok-Chakravorty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Loki-World-55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Loki-World-55&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Loki-World-55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
